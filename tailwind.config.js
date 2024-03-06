@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       spacing: {
-        '450px': '450px',
+        970: '970px',
       },
       colors: {
         'at-red-400': '#e60023',

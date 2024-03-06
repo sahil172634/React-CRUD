@@ -1,10 +1,9 @@
 import './App.css';
-import ShowUsers from './Components/ShowUsers';
-
+import User from 'f:/avesta internship/React/React-CRUD/src/Featuers/User/User.jsx';
 const App = () => {
   return (
     <>
-      <ShowUsers />
+      <User />
     </>
   );
 };

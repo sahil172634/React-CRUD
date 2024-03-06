@@ -1,8 +1,8 @@
-export const users = [
+export const userData = [
   {
     id: 1,
     name: 'Sahil Makwana',
-    email: 'sahilmakwna8200@gmail.com',
+    email: 'sahilmakwana8200@gmail.com',
     mo_Number: 8200924280,
   },
   {
@@ -14,19 +14,19 @@ export const users = [
   {
     id: 3,
     name: 'Solanki Makwana',
-    email: 'parmar8200@gmail.com',
+    email: 'solanki8200@gmail.com',
     mo_Number: 9601683932,
   },
   {
     id: 4,
     name: 'Tiwari Makwana',
-    email: 'pateldummy82@gmail.com',
+    email: 'tiwari8200@gmail.com',
     mo_Number: 9427454432,
   },
   {
     id: 5,
     name: 'Thakor Makwana',
-    email: 'dummysecoind@gmail.com',
+    email: 'thakor8200@gmail.com',
     mo_Number: 9316589765,
   },
 ];
